@@ -1,6 +1,6 @@
 # angular-jivosite
 
-Angular Wrapper for Jivosite.com
+Angular Wrapper for Jivosite.com chat plugin
 
 ## How to use
 
