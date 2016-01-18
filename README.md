@@ -22,5 +22,7 @@ angular.module('app').config(function ($jivositeProvider) {
 
 ## Reporting issues and Contributing
 
+Help us make Angular-Jivosite better! If you think you might have found a bug, or some other weirdness, start by making sure it hasn't already been reported. You can search through existing issues to see if someone's reported one similar to yours.
+
 - Create issue
 - Create pull request with issue solving
