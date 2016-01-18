@@ -1,6 +1,7 @@
 {
   "name": "angular-jivosite",
   "description": "angular wrapper fot jivosite.com",
+  "version": "1.0.0",
   "main": "angular-jivosite.js",
   "authors": [
     "Alexey Bondarenko <alexeybondarenko@me.com>"
