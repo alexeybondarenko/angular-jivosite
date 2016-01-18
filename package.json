@@ -1,0 +1,23 @@
+{
+  "name": "angular-jivosite",
+  "version": "1.0.0",
+  "description": "angular wrapper fot jivosite.com",
+  "main": "angular-jivosite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeybondarenko/angular-jivosite.git"
+  },
+  "keywords": [
+    "jivosite",
+    "angular"
+  ],
+  "author": "Alexey Bondarenko <alexeybondarenko@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeybondarenko/angular-jivosite/issues"
+  },
+  "homepage": "https://github.com/alexeybondarenko/angular-jivosite#readme"
+}

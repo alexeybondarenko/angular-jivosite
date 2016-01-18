@@ -1,0 +1,22 @@
+{
+  "name": "angular-jivosite",
+  "description": "angular wrapper fot jivosite.com",
+  "main": "angular-jivosite.js",
+  "authors": [
+    "Alexey Bondarenko <alexeybondarenko@me.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "jivosite",
+    "angular"
+  ],
+  "homepage": "https://github.com/alexeybondarenko/angular-jivosite",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
